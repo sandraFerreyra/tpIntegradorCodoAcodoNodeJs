@@ -10,7 +10,6 @@
 
                                                      Integrantes:
                                                      Sandra Ferreyra, 
-                                                     Marcos Caraballo, 
                                                      Marcelo, 
                                                      Karina, 
                                                      Debora, 
