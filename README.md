@@ -9,14 +9,14 @@
                    Grupo N° 6 | Comisión #23578 
 
 
-                                                     Integrantes:
-                                                     Sandra Ferreyra, 
-                                                     Marcelo, 
-                                                     Karina, 
-                                                     Debora, 
-                                                     Romina Pascaretta, 
-                                                     German, 
-                                                     Jose  
+                                                   Integrantes:
+                                                   Sandra Ferreyra, 
+                                                   Marcelo, 
+                                                   Karina, 
+                                                   Debora, 
+                                                   Romina Pascaretta, 
+                                                   German, 
+                                                   Jose  
 </p>
 <br>
 <p align="center">
