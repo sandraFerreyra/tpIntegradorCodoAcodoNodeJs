@@ -1,11 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FUNKOSHOP - LOGIN</title>
 </head>
 <body>
+
+    <header>
+        
+        <nav>
+            <picture>
+                <a href="/index.html">
+                    <img src="/img/branding/logo_light_horizontal.svg" alt="logotipo de la marca Funkoshop">
+                </a>
+            </picture>
+            <ul>
+                <li>
+                    <a href="/pages/shop/shop.html">VER TIENDA</a>
+                </li>
+                <li>
+                    <a href="/pages/admin/admin.html">ADMIN</a>
+                </li>
+                <li>
+                    <a href="/pages/shop/item.html">SALIR</a>
+                </li>
+            </ul>
+        </nav>
+    </header> 
+
+    <main>
+        <section>
+            <div> 
+                <h2>INGRESAR A MI CUENTA</h2><br>
+            </div> 
+        
+            <form action=""  method="POST" name="formulario"> 
+
+            <div> 
+                <label for="email">Email:</label> 
+                <input type="text" id="registro email"  placeholder="johnDoe@correo.com"  maxlength="50"> 
+            </div><br>
+                
+            <div> 
+                <label for="contraseña">Contraseña</label> 
+                <input type="contraseña" id="contraseña" placeholder="************" maxlength="255" minlength="8"> 
+            </div><br>
+            <button type="submit">Ingresar</button>
+            <div><br>
+                <input type="checkbox" class="check" id="acepto">
+                <label for="recordar">Recordarme</label>
+            </div>
+            </form>
+            <div>
+                <a href="">Olvide mi contraseña</a>
+            </div>
+
+        </section>
+    </main>
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="/pages/shop/shop.html">SHOP</a></li>
+                <li><a href="/pages/admin/register.html">REGISTRARSE</a></li>
+                <li><a href="/pages/admin/login.html">INGRESAR</a></li>
+                <li><a href="/pages/shop/contacto.html">CONTACTO</a></li>
+            </ul>
+            <picture>
+                <img src="/img/branding/isotype.svg" alt="Isotipo de Funkoshop">
+            </picture>
+        </nav>
+            <p>All rights reserved 2023 - Funkoshop &copy;</p>        
+    </footer>  
+
+
     
 </body>
 </html>
