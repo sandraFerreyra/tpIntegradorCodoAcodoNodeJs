@@ -27,6 +27,84 @@
             </ul>
         </nav>
     </header> 
+    <main>
+        <h1>EDITAR ITEM</h1>
+        <section>
+                <div>
+                    <label for="categoria">Categoría:</label>
+                    <select name="categoria">
+                      <option value="figuras">Figuras</option>
+                      <option value="figuras-naruto">Naruto</option>
+                      <option value="figuras-pokemon">Pokemon</option>
+                    </select>
+                </div>
+                
+                <div>
+                    <label for="licencia">Licencia:</label>
+                    <select name="licencia">
+                    <option value="licencia-naruto">Naruto Shippuden</option>
+                    <option value="licencia-pokemon">Pokemon</option>
+                </select>
+                </div> 
+                <div>
+                   <label for="nombre-producto">Nombre del producto:</label> 
+                   <input type="text" id="nombre-producto"/>
+                </div>
+    
+                <div>
+                   <textarea name="texto" rows="4" cols="40" placeholder="Descripción del producto">Figura Funko coleccionable de Kakashi Hatake de la saga Naruto Shipudden invocando chidori</textarea>
+                </div>
+    
+            <div>
+                <div>
+                    <label for="sku">SKU:</label> 
+                    <input type="text" id="sku" placeholder="NAR001012"/>
+                </div>
+                
+                <div>
+                    <label for="precio">Precio:</label> 
+                    <input type="text" id="precio" placeholder="S1799,00"/>
+                </div>
+    
+                <div>
+                    <label for="stock">Stock:</label> 
+                    <input type="text" id="stock"  placeholder="10"/>
+                </div>  
+            </div>
+    
+            <div>
+                <div>
+                    <label for="descuento">Descuento:</label> 
+                    <input type="text" id="descuento"  placeholder="10%"/>
+                </div>
+                
+                <label for="cuotas">Cuotas:</label>
+                <select name="cuotas" id="cuotas">
+                    <option value="numero-cuotas">6 Cuotas sin interés</option>
+                    <option value="numero-cuotas">12 Cuotas sin interés</option>
+                </select>
+            </div>
+    
+            <div>
+                <label for="imagenes">Imágenes:</label>
+                <input type="file" id="imagenes">
+            </div>
+                <div>
+                    <img src="/img/naruto/kakashi_hatake_front.webp" alt="Figura coleccionable funko - Kakashi">
+                    <p>Frente</p>
+                </div>
+                
+                <div>
+                    <img src="/img/naruto/kakashi_hatake_back.webp" alt="Figura coleccionable funko - Kakashi Box">
+                    <p>Dorso</p>
+                </div>
+            <div>
+                <input type="button" value="Modificar Producto">
+            </div>
+    
+        </section>
+    </main>
+    
     <footer>
         <nav>
             <ul>
