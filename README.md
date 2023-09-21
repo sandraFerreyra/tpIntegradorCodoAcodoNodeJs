@@ -23,3 +23,9 @@
 <img src="https://github.com/testTPU/1/blob/main/images.png" alt="logo codo a codo">
 </p>
 <br>
+
+<p> Se cambio el nombre del repositorio a kmdChallengerCodoaCodoNodeJs</p>
+
+<p> Integrantes finales: Karina Oliver Debora Jara y Marcelo Mora</p>
+
+<p>Link al proyecto: https://github.com/MarceloMora/kmdChallengerCodoaCodoNodeJs/invitations<p/>
